@@ -34,7 +34,6 @@ Berikut adalah teknologi yang sedang saya kuasai dan pelajari dengan giat.
 * 🌱 **Fokus Belajar:** Mendalami konsep proograming.
 * 💡 **Mengerjakan Proyek:** 
 * 🤝 **Mencari:** Kesempatan untuk berkontribusi pada proyek sumber terbuka atau program magang.
-* 📫 **Anda bisa menghubungi saya di:**
 
 ---
 
